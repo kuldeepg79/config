@@ -1,0 +1,6 @@
+[web]
+node1.domain.example.com
+
+[dev]
+node2.domain.example.com
+

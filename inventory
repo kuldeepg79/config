@@ -1,6 +1,6 @@
 [web]
-node1.example.com
+guest1.example.com
 
 [dev]
-node2.example.com
+guest2.example.com
 
